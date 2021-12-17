@@ -6,8 +6,7 @@
     {{ end }}
     {{ now.Year }}
     {{ with .Site.Params.author }} {{ . }} {{ end }}
-    ·
-    {{ i18n "powered_by" }} <a href="https://gohugo.io/">Hugo</a> & <a href="https://github.com/luizdepra/hugo-coder/">Coder</a>.
+    {{ i18n "" }} <a href="https://gohugo.io/"></a><a href="https://github.com/luizdepra/hugo-coder/"></a>
     {{ if (and .Site.Params.commit .GitInfo) }}
       [<a href="{{ .Site.Params.commit }}/{{ .GitInfo.Hash }}">{{ .GitInfo.AbbreviatedHash }}</a>]
     {{ end }}
