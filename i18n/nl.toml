@@ -1,14 +1,18 @@
-[category]
-other = "Categorie"
+[categories]
+one = "Categorie"
+other = "categories"
 
-[tag]
-other = "Label"
+[tags]
+one = "Label"
+other = "tags"
 
 [series]
-other = "Serie"
+one = "Serie"
+other = "series"
 
-[author]
-other = "Auteur"
+[authors]
+one = "Auteur"
+other = "authors"
 
 [posts]
 other = "Berichten"
@@ -31,3 +35,24 @@ other = "Aangedreven door"
 
 [see_also]
 other = "Zie ook in"
+
+[note]
+other = "note"
+
+[tip]
+other = "tip"
+
+[example]
+other = "example"
+
+[question]
+other = "question"
+
+[info]
+other = "info"
+
+[warning]
+other = "warning"
+
+[error]
+other = "error"

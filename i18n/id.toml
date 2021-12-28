@@ -1,14 +1,18 @@
-[category]
-other = "kategori"
+[categories]
+one = "kategori"
+other = "categories"
 
-[tag]
-other = "label"
+[tags]
+one = "label"
+other = "tags"
 
 [series]
-other = "seri"
+one = "seri"
+other = "series"
 
-[author]
-other = "penulis"
+[authors]
+one = "penulis"
+other = "authors"
 
 [posts]
 other = "artikel"
@@ -31,3 +35,24 @@ other = "Dipersembahkan oleh"
 
 [see_also]
 other = "artikel terkait"
+
+[note]
+other = "note"
+
+[tip]
+other = "tip"
+
+[example]
+other = "example"
+
+[question]
+other = "question"
+
+[info]
+other = "info"
+
+[warning]
+other = "warning"
+
+[error]
+other = "error"
